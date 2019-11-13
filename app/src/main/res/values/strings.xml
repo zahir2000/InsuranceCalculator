@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Insurance Premium Calculator</string>
+    <string name="age_text">Age :</string>
+
+</resources>
